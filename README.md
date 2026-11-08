@@ -26,7 +26,7 @@
   <h1>Eu sou o footer</h1>
 </footer> 
 
-<div class="lucas">
+<div class="marcellus">
   <h1>Aula 03-04</h1>
 </div>
 
@@ -78,6 +78,6 @@
     min-height: 35vh;
     background-color: rgba(0, 0, 231, 0.795);
 }
-.lucas{
+.marcellus{
     background-color: blue;
 }
